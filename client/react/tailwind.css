@@ -1,0 +1,47 @@
+@import "tailwindcss";
+@theme {
+  --color-navy: #020918;
+  --font-playfair: "Playfair Display", serif;
+}
+.no-scrollbar {
+  ::-webkit-scrollbar {
+    display: none !important;
+  }
+}
+@keyframes floatY {
+  0%   { transform: translateY(-5px); }
+  50%  { transform: translateY(5px); }
+  100% { transform: translateY(-5px); }
+}
+
+.float {
+  animation: floatY 3s ease-in-out infinite;
+  will-change: transform;
+}
+
+/* swiper */
+.swiper.swiper-initialized .swiper-button-next,
+.swiper.swiper-initialized .swiper-button-prev {
+  color: #525252 !important;
+  width: 1.75rem !important;
+  height: 1.75rem !important;
+  margin-inline: 0.5rem;
+}
+.swiper.swiper-initialized .swiper-button-next::after,
+.swiper.swiper-initialized .swiper-button-prev::after {
+  font-size: 1.75rem !important;
+  font-weight: bold !important;
+}
+.swiper-button-disabled {
+  display: none !important;
+}
+.swiper-pagination-bullet {
+  width: 8px !important;
+  height: 8px !important;
+  border-radius: 2px !important;
+  background-color: #525252 !important;
+  opacity: 0.2 !important;
+}
+.swiper-pagination-bullet-active {
+  opacity: 1 !important;
+}

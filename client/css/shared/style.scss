@@ -1,0 +1,7 @@
+/* shared/style.scss */
+@use "footer";
+
+body{
+  overflow-x: hidden;
+  scroll-behavior: smooth !important;
+}

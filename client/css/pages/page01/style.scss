@@ -1,0 +1,141 @@
+.brand-section {
+  width: 90vw;
+  margin: 0 auto;
+  border-top: 1px solid #d4d4d4;
+  color: #fafafa;
+
+  /* ---------- ブランドメッセージ ---------- */
+
+  .brand-message {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 1.5rem;
+
+    figure {
+      width: 4rem;
+      opacity: .9;
+    }
+
+    p {
+      font-size: 1.5rem;
+      letter-spacing: .35em;
+      font-weight: 300;
+      color: #171717;
+    }
+
+    span {
+      margin-top: 1.5rem;
+      font-size: 10px;
+      letter-spacing: .4em;
+      color: #a3a3a3;
+      text-transform: uppercase;
+    }
+  }
+
+  /* ---------- 共通レイアウト ---------- */
+
+  .commitment,
+  .biodiversity,
+  .eco {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+
+    img,
+    video {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .overlay {
+      position: absolute;
+      inset: 0;
+    }
+
+    .content {
+      position: absolute;
+      max-width: 36rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+
+      p:first-child {
+        font-size: 11px;
+        letter-spacing: .4em;
+        text-transform: uppercase;
+        color: #d4d4d4;
+      }
+
+      h2,
+      h3 {
+        font-size: 3rem;
+        letter-spacing: .2em;
+        font-weight: 300;
+      }
+
+      p:last-child {
+        font-size: .875rem;
+        line-height: 1.75;
+        color: #d4d4d4;
+      }
+    }
+  }
+
+  /* ---------- 個別調整 ---------- */
+
+  .commitment {
+    img {
+      transform: scale(1.1);
+    }
+
+    .overlay {
+      background: rgba(0, 0, 0, .4);
+    }
+
+    .content {
+      top: 50%;
+      left: 6rem;
+      transform: translateY(-50%);
+    }
+  }
+
+  .biodiversity {
+    .overlay {
+      background: linear-gradient(
+        to top,
+        rgba(0,0,0,.7),
+        rgba(0,0,0,.2),
+        rgba(0,0,0,.7)
+      );
+    }
+
+    .content {
+      bottom: 8rem;
+      left: 50%;
+      transform: translateX(-50%);
+      text-align: center;
+      max-width: 42rem;
+    }
+  }
+
+  .eco {
+    .overlay {
+      background: rgba(0,0,0,.5);
+    }
+
+    .content {
+      top: 50%;
+      right: 6rem;
+      transform: translateY(-50%);
+      text-align: right;
+    }
+  }
+}

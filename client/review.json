@@ -1,0 +1,534 @@
+[
+  {
+    "productId": 21,
+    "rating": 5,
+    "authorName": "AoiKanzaki",
+    "title": "褒められる香り",
+    "content": "つけていると高確率で香りを聞かれます。きつすぎず上品で、毎日使っても飽きません。"
+  },
+  {
+    "productId": 21,
+    "rating": 5,
+    "authorName": "RikuMatsuno",
+    "title": "万能",
+    "content": "仕事でも休日でも使える香りです。一本持っているとかなり重宝します。"
+  },
+  {
+    "productId": 21,
+    "rating": 4,
+    "authorName": "MinaShiratori",
+    "title": "安心感",
+    "content": "強すぎず自然な香り立ちです。オフィスでも問題なく使えています。"
+  },
+  {
+    "productId": 21,
+    "rating": 5,
+    "authorName": "KentaAoyagi",
+    "title": "定番になった",
+    "content": "気づいたら毎朝これを選んでいます。清潔感があって好印象です。"
+  },
+  {
+    "productId": 21,
+    "rating": 4,
+    "authorName": "NoaFujikura",
+    "title": "万人向け",
+    "content": "クセが少なく使いやすい香りです。プレゼントにも向いていると思います。"
+  },
+  {
+    "productId": 21,
+    "rating": 5,
+    "authorName": "YuiTachibana",
+    "title": "リピート",
+    "content": "2本目です。季節を問わず使えるのが嬉しいです。"
+  },
+  {
+    "productId": 21,
+    "rating": 4,
+    "authorName": "SoraKaneko",
+    "title": "完成度高い",
+    "content": "価格以上にしっかりした香りだと思います。バランスが良いです。"
+  },
+
+  {
+    "productId": 22,
+    "rating": 4,
+    "authorName": "EmiTakase",
+    "title": "大人っぽい",
+    "content": "落ち着いた深みのある香りです。夜向きだと思います。"
+  },
+  {
+    "productId": 22,
+    "rating": 3,
+    "authorName": "YutoHoshino",
+    "title": "個性的",
+    "content": "少しクセがあり好みが分かれそうです。ハマる人はハマる香りです。"
+  },
+  {
+    "productId": 22,
+    "rating": 2,
+    "authorName": "DaichiMorita",
+    "title": "重たい",
+    "content": "自分には少し強すぎました。長時間だと酔ってしまいます。"
+  },
+  {
+    "productId": 22,
+    "rating": 4,
+    "authorName": "ReinaMiyoshi",
+    "title": "雰囲気が出る",
+    "content": "服装を選ぶ香りですが、ハマると唯一無二です。"
+  },
+
+  {
+    "productId": 23,
+    "rating": 5,
+    "authorName": "HanaOkubo",
+    "title": "爽やか",
+    "content": "一気に清潔感が出ます。夏場は特に活躍しています。"
+  },
+  {
+    "productId": 23,
+    "rating": 4,
+    "authorName": "SotaIshii",
+    "title": "使いやすい",
+    "content": "強すぎず軽やかな香りです。朝にぴったりです。"
+  },
+  {
+    "productId": 23,
+    "rating": 5,
+    "authorName": "MoeKanzawa",
+    "title": "気分が上がる",
+    "content": "つけると自然と気持ちが前向きになります。男女問わず使えそうです。"
+  },
+  {
+    "productId": 23,
+    "rating": 4,
+    "authorName": "TakumiOno",
+    "title": "好印象",
+    "content": "周りからの評判がいいです。クセがありません。"
+  },
+  {
+    "productId": 23,
+    "rating": 5,
+    "authorName": "RinaFujimoto",
+    "title": "定番",
+    "content": "何度もリピートしています。安心して選べる香りです。"
+  },
+  {
+    "productId": 23,
+    "rating": 4,
+    "authorName": "HarutoKawaguchi",
+    "title": "万能",
+    "content": "TPOを選ばず使えます。一本あると便利です。"
+  },
+
+  {
+    "productId": 24,
+    "rating": 2,
+    "authorName": "TakashiNomura",
+    "title": "甘すぎる",
+    "content": "香りがかなり甘めです。長時間だと少し疲れました。"
+  },
+  {
+    "productId": 24,
+    "rating": 3,
+    "authorName": "MikuHirano",
+    "title": "可愛い系",
+    "content": "若い方向けの香りだと思います。好みは分かれそうです。"
+  },
+  {
+    "productId": 24,
+    "rating": 2,
+    "authorName": "ShotaEndo",
+    "title": "独特",
+    "content": "個性はありますが日常使いは難しいです。"
+  },
+
+  {
+    "productId": 25,
+    "rating": 5,
+    "authorName": "YuiSakurada",
+    "title": "肌が安定",
+    "content": "使い始めてから乾燥しにくくなりました。調子がかなり良いです。"
+  },
+  {
+    "productId": 25,
+    "rating": 5,
+    "authorName": "MasatoKobayashi",
+    "title": "手放せない",
+    "content": "肌荒れが減りました。もうこれなしでは不安です。"
+  },
+  {
+    "productId": 25,
+    "rating": 4,
+    "authorName": "KoharuEndo",
+    "title": "保湿力",
+    "content": "ベタつかないのにしっかり潤います。通年使えそうです。"
+  },
+  {
+    "productId": 25,
+    "rating": 5,
+    "authorName": "NeneAoyama",
+    "title": "朝の調子が違う",
+    "content": "化粧ノリが良くなりました。リピート確定です。"
+  },
+  {
+    "productId": 25,
+    "rating": 4,
+    "authorName": "ShunMizuno",
+    "title": "安心",
+    "content": "刺激が少なくて使いやすいです。"
+  },
+  {
+    "productId": 25,
+    "rating": 5,
+    "authorName": "MakiKuroda",
+    "title": "お気に入り",
+    "content": "肌が柔らかくなった感じがします。"
+  },
+  {
+    "productId": 25,
+    "rating": 4,
+    "authorName": "YotaFujii",
+    "title": "安定感",
+    "content": "大きなトラブルなく使えています。"
+  },
+
+  {
+    "productId": 26,
+    "rating": 4,
+    "authorName": "AyakaHirano",
+    "title": "さっぱり",
+    "content": "軽い使用感で朝に向いています。"
+  },
+  {
+    "productId": 26,
+    "rating": 3,
+    "authorName": "NanaKurosawa",
+    "title": "普通",
+    "content": "特別感はないですが問題なく使えます。"
+  },
+  {
+    "productId": 26,
+    "rating": 2,
+    "authorName": "ShunArai",
+    "title": "合わなかった",
+    "content": "少し刺激を感じました。"
+  },
+  {
+    "productId": 26,
+    "rating": 4,
+    "authorName": "KentoIwasaki",
+    "title": "コスパ",
+    "content": "価格を考えると悪くないです。"
+  },
+
+  {
+    "productId": 35,
+    "rating": 5,
+    "authorName": "ReiTsuchiya",
+    "title": "安定",
+    "content": "肌の調子が良いです。安心して使えます。"
+  },
+  {
+    "productId": 35,
+    "rating": 4,
+    "authorName": "MoeKikuchi",
+    "title": "使いやすい",
+    "content": "香りが控えめで続けやすいです。"
+  },
+  {
+    "productId": 35,
+    "rating": 4,
+    "authorName": "YuNagata",
+    "title": "リピート中",
+    "content": "トラブルなく使えています。"
+  },
+  {
+    "productId": 35,
+    "rating": 3,
+    "authorName": "AtsushiKoga",
+    "title": "普通",
+    "content": "可もなく不可もなくです。"
+  },
+  {
+    "productId": 35,
+    "rating": 4,
+    "authorName": "HinaOkada",
+    "title": "保湿",
+    "content": "乾燥しにくくなりました。"
+  },
+
+  {
+    "productId": 29,
+    "rating": 5,
+    "authorName": "HarukaAoyama",
+    "title": "癒やし",
+    "content": "香りがとても良くリラックスできます。"
+  },
+  {
+    "productId": 29,
+    "rating": 5,
+    "authorName": "MiyuSano",
+    "title": "リピート",
+    "content": "何度も買っています。"
+  },
+  {
+    "productId": 29,
+    "rating": 4,
+    "authorName": "KoheiUeda",
+    "title": "満足",
+    "content": "洗い上がりが気持ちいいです。"
+  },
+  {
+    "productId": 29,
+    "rating": 5,
+    "authorName": "NaomiKikuta",
+    "title": "バスタイム",
+    "content": "お風呂が楽しみになりました。"
+  },
+  {
+    "productId": 29,
+    "rating": 4,
+    "authorName": "RyotaKameda",
+    "title": "しっとり",
+    "content": "乾燥しにくいです。"
+  },
+  {
+    "productId": 29,
+    "rating": 5,
+    "authorName": "SaraKojima",
+    "title": "香り",
+    "content": "毎日使いたくなります。"
+  },
+
+  {
+    "productId": 27,
+    "rating": 4,
+    "authorName": "ToruNishida",
+    "title": "剃りやすい",
+    "content": "泡立ちが良く、刃の滑りもスムーズです。普段使いにちょうどいいと感じました。"
+  },
+  {
+    "productId": 27,
+    "rating": 3,
+    "authorName": "KarinMuto",
+    "title": "標準的",
+    "content": "特別感はありませんが問題なく使えます。価格相応の商品だと思います。"
+  },
+  {
+    "productId": 27,
+    "rating": 4,
+    "authorName": "FumiyaOkada",
+    "title": "肌に優しい",
+    "content": "ヒリつきにくく安心して使えました。敏感肌でも使いやすいです。"
+  },
+  {
+    "productId": 27,
+    "rating": 3,
+    "authorName": "RyoheiKubo",
+    "title": "可もなく不可もなく",
+    "content": "仕上がりは普通です。ドラッグストア商品より少し良い印象です。"
+  },
+  {
+    "productId": 27,
+    "rating": 4,
+    "authorName": "NatsumiKanda",
+    "title": "安定",
+    "content": "毎朝使っていますが特に不満はありません。香りも控えめです。"
+  },
+
+  {
+    "productId": 28,
+    "rating": 2,
+    "authorName": "MakiTsuboi",
+    "title": "香りが強い",
+    "content": "思ったより香りがきつめでした。好みは分かれると思います。"
+  },
+  {
+    "productId": 28,
+    "rating": 3,
+    "authorName": "RyoKawahara",
+    "title": "洗浄力はある",
+    "content": "さっぱりはしますが少し乾燥しました。夏向きの商品だと思います。"
+  },
+  {
+    "productId": 28,
+    "rating": 2,
+    "authorName": "AkiraNomura",
+    "title": "合わなかった",
+    "content": "洗った後につっぱり感がありました。自分の肌には合わなかったです。"
+  },
+
+  {
+    "productId": 30,
+    "rating": 3,
+    "authorName": "NaotoHiguchi",
+    "title": "普通",
+    "content": "特に良くも悪くもありません。毎日使いには十分です。"
+  },
+  {
+    "productId": 30,
+    "rating": 2,
+    "authorName": "YumaKido",
+    "title": "物足りない",
+    "content": "香りも使用感も印象に残りませんでした。リピートは検討中です。"
+  },
+  {
+    "productId": 30,
+    "rating": 4,
+    "authorName": "SayakaImai",
+    "title": "使いやすい",
+    "content": "刺激が少なく安心して使えます。家族でも共有しやすいです。"
+  },
+  {
+    "productId": 30,
+    "rating": 3,
+    "authorName": "KokiMatsuda",
+    "title": "無難",
+    "content": "大きな不満はありません。セールならまた買うかもしれません。"
+  },
+
+  {
+    "productId": 31,
+    "rating": 5,
+    "authorName": "ShioriKameda",
+    "title": "満足度高い",
+    "content": "洗い上がりがとても気持ちいいです。想像以上に良かったです。"
+  },
+  {
+    "productId": 31,
+    "rating": 4,
+    "authorName": "HinataFurukawa",
+    "title": "時短",
+    "content": "泡切れがよく使いやすいです。忙しい日でも助かっています。"
+  },
+  {
+    "productId": 31,
+    "rating": 4,
+    "authorName": "KazukiNoma",
+    "title": "安定感",
+    "content": "何度もリピートしています。安心して使える商品です。"
+  },
+  {
+    "productId": 31,
+    "rating": 3,
+    "authorName": "MaiTokunaga",
+    "title": "普通",
+    "content": "良くも悪くも想像通りでした。香りは控えめです。"
+  },
+  {
+    "productId": 31,
+    "rating": 4,
+    "authorName": "ShoUchida",
+    "title": "好印象",
+    "content": "家族にも勧めました。全体的にバランスが良いです。"
+  },
+
+  {
+    "productId": 32,
+    "rating": 5,
+    "authorName": "ErikaKondo",
+    "title": "間違いない",
+    "content": "友人へのプレゼントに選びました。とても喜んでもらえました。"
+  },
+  {
+    "productId": 32,
+    "rating": 4,
+    "authorName": "ShoheiMinato",
+    "title": "高級感",
+    "content": "開けた瞬間に特別感があります。内容も実用的です。"
+  },
+  {
+    "productId": 32,
+    "rating": 5,
+    "authorName": "RumiHasegawa",
+    "title": "安心のセット",
+    "content": "誰に贈っても失敗しないと思います。ギフト用に何度か購入しています。"
+  },
+  {
+    "productId": 32,
+    "rating": 5,
+    "authorName": "YusukeHorie",
+    "title": "満足度高い",
+    "content": "価格以上に豪華に感じました。自分用にも欲しくなりました。"
+  },
+  {
+    "productId": 32,
+    "rating": 4,
+    "authorName": "MikaSonoda",
+    "title": "センスがいい",
+    "content": "パッケージがきれいで贈り物向きです。内容も使いやすいです。"
+  },
+  {
+    "productId": 32,
+    "rating": 5,
+    "authorName": "TakayaIshimoto",
+    "title": "リピートギフト",
+    "content": "記念日の定番になっています。毎回評判がいいです。"
+  },
+
+  {
+    "productId": 33,
+    "rating": 2,
+    "authorName": "MahoSugiyama",
+    "title": "期待外れ",
+    "content": "内容が思ったより普通でした。価格を考えると少し残念です。"
+  },
+  {
+    "productId": 33,
+    "rating": 3,
+    "authorName": "KazuyaToda",
+    "title": "無難",
+    "content": "悪くはないですが印象にも残りません。とりあえずのギフト向けです。"
+  },
+  {
+    "productId": 33,
+    "rating": 2,
+    "authorName": "TeppeiArata",
+    "title": "割高感",
+    "content": "セット内容に特別感がありませんでした。リピートはしないと思います。"
+  },
+
+  {
+    "productId": 34,
+    "rating": 5,
+    "authorName": "YukariAmano",
+    "title": "大好評",
+    "content": "誕生日プレゼントに贈ったらとても喜ばれました。選んで正解でした。"
+  },
+  {
+    "productId": 34,
+    "rating": 4,
+    "authorName": "HirotoEnami",
+    "title": "特別感",
+    "content": "箱を開けた瞬間の印象がとても良いです。贈答用に向いています。"
+  },
+  {
+    "productId": 34,
+    "rating": 5,
+    "authorName": "MisakiKudo",
+    "title": "鉄板ギフト",
+    "content": "困ったらこれを選んでいます。今のところ外したことがありません。"
+  },
+  {
+    "productId": 34,
+    "rating": 5,
+    "authorName": "KeisukeNarita",
+    "title": "完成度高い",
+    "content": "セット内容に統一感があります。自分用にも欲しくなりました。"
+  },
+  {
+    "productId": 34,
+    "rating": 4,
+    "authorName": "AyumiShindo",
+    "title": "満足",
+    "content": "価格に対して内容が充実しています。見た目もきれいです。"
+  },
+  {
+    "productId": 34,
+    "rating": 5,
+    "authorName": "TatsuyaMori",
+    "title": "贈り物定番",
+    "content": "家族へのプレゼントに使いました。とても評判が良かったです。"
+  }
+]

@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="ja" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dior - Sauvage</title>
+    <link rel="stylesheet" href="./css/shared/style.css" />
+    <link rel="stylesheet" href="./css/pages/page01/style.css" />
+  </head>
+  <body>
+    <header id="header">
+      <!--⚛️Header(client\react\components\shared\Header.tsx)⚛️ -->
+    </header>
+
+    <main>
+      <section id="product-detail">
+        <!--⚛️ProductDetail(client\react\components\pages\page01\ProductDetail.tsx)⚛️ -->
+      </section>
+
+      <section class="brand-section">
+        <!-- ブランドメッセージ -->
+        <div class="brand-message">
+          <figure>
+            <img src="/assets/images/dior-logo.png" alt="Dior" />
+          </figure>
+
+          <p>「より幸せで、より美しい世界のために」</p>
+
+          <span>Dior Sustainability</span>
+        </div>
+
+        <!-- Diorの取り組み -->
+        <div class="commitment">
+          <img src="/assets/images/torikumi.jpg" alt="" />
+
+          <div class="overlay"></div>
+
+          <div class="content">
+            <p>Our Commitment</p>
+            <h2>Diorの取り組み</h2>
+            <p>
+              メゾン
+              ディオールは、自然と共存するラグジュアリーの未来を信じています。
+              香りの創造からパッケージに至るまで、すべての工程において持続可能性を追求しています。
+            </p>
+          </div>
+        </div>
+
+        <!-- 生物多様性 -->
+        <div class="biodiversity">
+          <video
+            src="/assets/movies/wildness.mp4"
+            autoplay
+            muted
+            loop
+            playsinline
+          ></video>
+
+          <div class="overlay"></div>
+
+          <div class="content">
+            <p>Biodiversity</p>
+            <h3>生物多様性の再生</h3>
+            <p>
+              大自然からインスパイアされた「ソヴァージュ」は、世界中の生物多様性を守り、
+              野生の自然環境の再生に取り組んでいます。
+            </p>
+          </div>
+        </div>
+
+        <!-- エコデザイン -->
+        <div class="eco">
+          <img src="/assets/images/edo-design.webp" alt="" />
+
+          <div class="overlay"></div>
+
+          <div class="content">
+            <p>Eco Design</p>
+            <h3>エコデザイン</h3>
+            <p>
+              メゾン・ディオールはエコデザインの先駆者として、リフィル可能な製品開発や、
+              バイオベース素材の導入を進め、2030年までにパッケージ重量を半減させることを目指しています。
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="customer-review" class="my-40">
+        <h2 class="font-medium text-center text-lg">お客様のレビュー</h2>
+        <section id="review-list">
+          <!--⚛️ReviewList(client\react\components\pages\page01\ReviewList.tsx)⚛️ -->
+        </section>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-left">
+        <!-- ロゴ、キャッチコピー -->
+        <div class="footer-brand">
+          <h2>
+            <img src="/assets/images/dior-logo2.png" alt="DIOR" />
+          </h2>
+
+          <div>
+            <p>Beauty as a Legacy</p>
+            <p>
+              Leaving beauty as a legacy. <br />
+              For a more beautiful and sustainable future, <br />
+              preserving the flowers that inspire us.
+            </p>
+          </div>
+        </div>
+
+        <!-- sns,コピーライト -->
+        <div class="footer-bottom">
+          <div>
+            <ul class="footer-sns">
+              <li><a href="https://www.instagram.com/dior/">Instagram</a></li>
+              <li><a href="https://x.com/DiorBeautyJP">X / Twitter</a></li>
+              <li><a href="https://www.facebook.com/Dior/">Facebook</a></li>
+            </ul>
+
+            <p class="footer-copy">© 2026 ohs50348</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-right">
+        <div class="footer-newsletter">
+          <h3>Newsletter</h3>
+
+          <div class="newsletter-form">
+            <input type="email" placeholder="ENTER YOUR EMAIL" />
+            <button>Subscribe</button>
+          </div>
+        </div>
+
+        <div class="footer-nav">
+          <div class="footer-nav-block">
+            <h4>Collections</h4>
+            <ul>
+              <li><a href="#fragrances">Fragrance</a></li>
+              <li><a href="#skincare">Skincare</a></li>
+              <li><a href="#">Make-up</a></li>
+              <li><a href="#">La Collection Privée</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-nav-block">
+            <h4>Support</h4>
+            <ul>
+              <li><a href="#">Contact Us</a></li>
+              <li><a href="#">Boutique Locator</a></li>
+              <li><a href="#">Privacy Policy</a></li>
+              <li><a href="#">Cookies</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script type="module" src="/react/pages/page01/entry.tsx"></script>
+  </body>
+</html>

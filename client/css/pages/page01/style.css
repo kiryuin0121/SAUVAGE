@@ -1,0 +1,127 @@
+@charset "UTF-8";
+.brand-section {
+  width: 90vw;
+  margin: 0 auto;
+  border-top: 1px solid #d4d4d4;
+  color: #fafafa;
+  /* ---------- ブランドメッセージ ---------- */
+  /* ---------- 共通レイアウト ---------- */
+  /* ---------- 個別調整 ---------- */
+}
+.brand-section .brand-message {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 1.5rem;
+}
+.brand-section .brand-message figure {
+  width: 4rem;
+  opacity: 0.9;
+}
+.brand-section .brand-message p {
+  font-size: 1.5rem;
+  letter-spacing: 0.35em;
+  font-weight: 300;
+  color: #171717;
+}
+.brand-section .brand-message span {
+  margin-top: 1.5rem;
+  font-size: 10px;
+  letter-spacing: 0.4em;
+  color: #a3a3a3;
+  text-transform: uppercase;
+}
+.brand-section .commitment,
+.brand-section .biodiversity,
+.brand-section .eco {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+.brand-section .commitment img,
+.brand-section .commitment video,
+.brand-section .biodiversity img,
+.brand-section .biodiversity video,
+.brand-section .eco img,
+.brand-section .eco video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.brand-section .commitment .overlay,
+.brand-section .biodiversity .overlay,
+.brand-section .eco .overlay {
+  position: absolute;
+  inset: 0;
+}
+.brand-section .commitment .content,
+.brand-section .biodiversity .content,
+.brand-section .eco .content {
+  position: absolute;
+  max-width: 36rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.brand-section .commitment .content p:first-child,
+.brand-section .biodiversity .content p:first-child,
+.brand-section .eco .content p:first-child {
+  font-size: 11px;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+  color: #d4d4d4;
+}
+.brand-section .commitment .content h2,
+.brand-section .commitment .content h3,
+.brand-section .biodiversity .content h2,
+.brand-section .biodiversity .content h3,
+.brand-section .eco .content h2,
+.brand-section .eco .content h3 {
+  font-size: 3rem;
+  letter-spacing: 0.2em;
+  font-weight: 300;
+}
+.brand-section .commitment .content p:last-child,
+.brand-section .biodiversity .content p:last-child,
+.brand-section .eco .content p:last-child {
+  font-size: 0.875rem;
+  line-height: 1.75;
+  color: #d4d4d4;
+}
+.brand-section .commitment img {
+  transform: scale(1.1);
+}
+.brand-section .commitment .overlay {
+  background: rgba(0, 0, 0, 0.4);
+}
+.brand-section .commitment .content {
+  top: 50%;
+  left: 6rem;
+  transform: translateY(-50%);
+}
+.brand-section .biodiversity .overlay {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7));
+}
+.brand-section .biodiversity .content {
+  bottom: 8rem;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  max-width: 42rem;
+}
+.brand-section .eco .overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+.brand-section .eco .content {
+  top: 50%;
+  right: 6rem;
+  transform: translateY(-50%);
+  text-align: right;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "setup": "npm install && npm run setup:client && npm run setup:server",
+    "setup:client": "npm install --prefix client",
+    "setup:server": "npm install --prefix server && cd server && npx prisma generate && npx prisma migrate deploy",
+    "dev": "concurrently -n client,server -c cyan,magenta \"npm run dev --prefix client\" \"npm run dev --prefix server\""
+  },
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

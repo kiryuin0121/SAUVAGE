@@ -1,0 +1,45 @@
+
+  //Gift Sets
+  {
+    "name": "Sauvage Eau Forte Trio Gift Set",
+    "thumbnailUrl": "/assets/images/",
+    "description": "Sauvage Eau Forte, Shower Gel, and Deodorant Stick",
+    "detail": "",
+    "intensity": 1,
+    "categoryId": 4,
+    "volumes": [
+      {
+        "volume": 0,
+        "price": 0,
+        "images": [
+          { "imageUrl": "/assets/images/" },
+          { "imageUrl": "/assets/images/" },
+          { "imageUrl": "/assets/images/" },
+          { "imageUrl": "/assets/images/" }
+        ]
+      }
+    ]
+  },
+  ,
+  {
+    "name": "",
+    "thumbnailUrl": "/assets/images/",
+    "description": "",
+    "detail": "",
+    "intensity": 1,
+    "categoryId": 4,
+    "volumes": [
+      {
+        "volume": 0,
+        "price": 0,
+        "images": [
+          { "imageUrl": "/assets/images/" },
+          { "imageUrl": "/assets/images/" },
+          { "imageUrl": "/assets/images/" },
+          { "imageUrl": "/assets/images/" }
+        ]
+      }
+    ]
+  },
+  
+]

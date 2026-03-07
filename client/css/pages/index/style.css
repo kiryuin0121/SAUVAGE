@@ -1,0 +1,41 @@
+#first-view {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+#first-view video {
+  width: 100%;
+  flex-shrink: 0;
+}
+#first-view h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 10rem;
+  color: white;
+  position: absolute;
+  top: 25vh;
+  left: 50%;
+  z-index: 1;
+  transform: translateX(-50%);
+  opacity: 0;
+  animation: fadeIn 3s ease-out forwards;
+}
+#first-view .scroll-down-button {
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  cursor: pointer;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}/*# sourceMappingURL=style.css.map */

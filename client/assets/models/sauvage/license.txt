@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sauvage Perfume
+* source:	https://sketchfab.com/3d-models/sauvage-perfume-5770bbdf70da451d96223dda7a6a4930
+* author:	szsakaria (https://sketchfab.com/szsakaria)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sauvage Perfume" (https://sketchfab.com/3d-models/sauvage-perfume-5770bbdf70da451d96223dda7a6a4930) by szsakaria (https://sketchfab.com/szsakaria) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
